@@ -3,8 +3,10 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=&fontSize=50)
 
-⚡️⚡️[Main Portfolio](https://cukai-kimhyunji.notion.site/Portfolio-1ba95078f84c4b9eb63151f7adc62e91?pvs=4)
+⚡️⚡️[Main Portfolio](https://cukai-kimhyunji.notion.site/Portfolio-1ba95078f84c4b9eb63151f7adc62e91?pvs=)
 
+
+~~맞팔해요~~
 
 ### 📊 GitHub Stats
 <div align="center">
