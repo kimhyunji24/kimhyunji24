@@ -37,7 +37,7 @@
 - 💬 Ask me about: **[META INNOTECH]**
 - ⚡ Fun fact: **[ NLP / Computer Vision / Signal Prosecssing]**
 - Research : **[한국지능정보시스템학회 - 사진 포즈 추천을 위한 딥러닝 기반 포즈 임베딩 및 군집화 프레임워크]**
-
+- 💡 MY PORTFOLIO : **[https://cukai-kimhyunji.notion.site/Portfolio-1ba95078f84c4b9eb63151f7adc62e91?pvs=4]**
 
 ---
 ### 🌐 Connect with me:
