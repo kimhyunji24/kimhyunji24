@@ -1,4 +1,4 @@
-# Hello, I'm Hyunji! 👋
+# Welcome, I'm Hyunji! 👋
 
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=&fontSize=50)
@@ -43,7 +43,7 @@
 
 ---
 ### 🌐 Connect with me:
-
+<a href="https://velog.io/@hyunji24/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:your.email@example.com)](mailto:hyunji4560@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/yourusername)](https://instagram.com/z_ruor)
 ---
