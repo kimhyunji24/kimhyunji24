@@ -1,7 +1,8 @@
 # Hello, I'm Hyunji! 👋
 
 
-![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20my%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
+![header](![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=HyunJi_Kim&fontSize=50)
+)
 
 
 ### 📊 GitHub Stats
