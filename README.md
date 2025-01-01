@@ -3,10 +3,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=&fontSize=50)
 
-⚡️⚡️[Main Portfolio](https://cukai-kimhyunji.notion.site/Portfolio-1ba95078f84c4b9eb63151f7adc62e91?pvs=)
-
-
-~~맞팔해요~~
 
 ### 📊 GitHub Stats
 <div align="center">
@@ -30,7 +26,7 @@
 
 ### 🏆 Achievements:
 - 🏅 **KPC-SW 코딩 고등부 대상**
-- 🏅 **대학교 교내 프로그래밍 대회 동상**
+- 🏅 **교내 프로그래밍 대회 동상**
 - 🏅 **교내 인공지능 및 데이터사이언스 아이디어 경진대회 장려상**
 - 🏅 **부천시 사회혁신 아이디어 공모전 최우수상**
 - 🏅 **부천지역 로컬크리에이터 공모전 최우수상**
@@ -41,7 +37,7 @@
   
 ### 👨‍💻 About Me
 - 🔭 I'm currently working on **[FOOD Search WEBSITE](https://github.com/kimhyunji24/djan9o)**
-- 🌱 Learning: **[React / React Native / Python ]**
+- 🌱 Learning: **[React / React Native / Python / NEXT.js ]**
 - 👯 Looking to collaborate on: **[Python & AI(NLP&CV)]**
 - 💬 Ask me about: **[META INNOTECH]**
 - ⚡ Fun fact: **[ NLP / Computer Vision / Signal Prosecssing]**
