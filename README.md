@@ -31,6 +31,18 @@
 
 ---
 
+
+#### Activities
+> |기간|대외활동|역할|
+> |:-:|:-:|:-:|
+> |2021.11 ~ 2022.02|NLP LAB|학부연구생|
+> |2021.07 ~ 2022.09|인공지능학과|학생회장|
+> |2023.03 ~ 2023.08|멋쟁이 사자처럼 대학 가톨릭 대학교|프론트엔드|
+> |2024.03 ~ 2024.12|멋쟁이 사자처럼 대학 가톨릭 대학교|인공지능/Django 파트장|
+> |2023.05 ~ |IDAL LAB|학부연구생|
+
+</div>
+
 ### 📊 GitHub Stats
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kimhyunji24&show_icons=true&theme=radical&count_private=true" />
