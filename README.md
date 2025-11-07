@@ -23,8 +23,7 @@
 
 #### 데이터와 프로세스 흐름을 읽고, 최적의 길을 찾아내는 “ 탐험가 같은 머신러닝 개발자 ”
  
-- I'm currently working on **[FOOD Search WEBSITE](https://github.com/kimhyunji24/djan9o)**
--  Learning: **[React / React Native / Python / NEXT.js ]**
+-  Learning: **[AI / K8S / Python ]**
 -  Looking to collaborate on: **[Python & AI(NLP&CV)]**
 -  Fun fact: **[ NLP / Computer Vision ]**
 -  Research : **[한국지능정보시스템학회 - 사진 포즈 추천을 위한 딥러닝 기반 포즈 임베딩 및 군집화 프레임워크]**
