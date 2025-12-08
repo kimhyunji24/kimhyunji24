@@ -46,8 +46,8 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kimhyunji24&show_icons=true&theme=radical&count_private=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimhyunji24&layout=compact&theme=radical" />
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kimhyunji24&show_icons=true&theme=radical&count_private=true" />
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kimhyunji24&layout=compact&theme=radical" />
 </div>
 
 ---
