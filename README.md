@@ -45,12 +45,6 @@
 
 </div>
 
-### 📊 GitHub Stats
-<div align="center">
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kimhyunji24&show_icons=true&theme=radical&count_private=true" />
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kimhyunji24&layout=compact&theme=radical" />
-</div>
-
 ---
 ### 🌐 Connect with me:
 <a href="https://velog.io/@hyunji24/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
