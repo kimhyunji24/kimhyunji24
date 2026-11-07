@@ -1,53 +1,49 @@
+# Hyunji Kim
+**AX Engineer** — I read data and process flows to find the optimal path.
 
----
-### 🛠️ Languages and Tools:
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+I build NLP and Computer Vision based AI services, from research prototypes to production APIs.
+Currently an intern on the A-FIRST team at AhnLab. <!-- TODO: add one line about what you work on -->
+
+## 🔬 Research
+- **Deep-learning-based pose embedding and clustering framework for photo pose recommendation**
+  Korea Intelligent Information Systems Society · Role: data engineering · [Paper](TODO) · [Code](https://github.com/kimhyunji24/iPose)
+
+## 🚀 Projects
+| Project | What it does | Stack |
+|---|---|---|
+| [iPose](https://github.com/kimhyunji24/iPose) | Human pose embedding and clustering with OpenPose and an AutoEncoder. **My role: data engineering** (forked from dnjstlr555/iPose) | Python |
+| [job-seeker-plan/AI](https://github.com/job-seeker-plan/AI) | FastAPI service for spending prediction and guide generation | Python, FastAPI |
+| [Moa-Gwa/BE](https://github.com/Moa-Gwa/BE) | Backend service. TODO: one-line description | Java |
+| [aivideo](https://github.com/kimhyunji24/aivideo) | TODO: one-line description (forked from hyyyeon/aivideo) | TypeScript |
+
+## 🏆 Awards
+- 🥇 **Grand Prize**, East AD × Blaybus AI MVP Service Hackathon (2025)
+- Selected for the **2025 Student Startup Promising Team 300+** growth track
+- Honorable Mention, Catholic University AI & Data Science Idea Contest
+- Bronze Prize, Catholic University Programming Contest
+- 🥇 **Grand Prize**, KPC-SW Coding Competition (High School Division)
+
+## 🛠 Tech
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=pytorch)
+![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=fastapi)
+![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=nodedotjs)
 
----
+## 💼 Experience
+| Period | Organization | Role |
+|:-:|:-:|:-:|
+| 2025.12 – 2026.06 | AhnLab | Intern, A-FIRST team |
+| 2025.07 – 2025.12 | SK AX | SKALA Cohort 2 |
+| 2024.07 – 2025.02 | MetaiNOTEK | AX Engineer (field trainee) |
+| 2023.05 – 2025.11 | IDAL LAB | Undergraduate Researcher |
+| 2024.03 – 2024.12 | LIKELION Catholic Univ. | AI / Django Part Lead |
+| 2023.03 – 2023.08 | LIKELION Catholic Univ. | Frontend |
+| 2021.11 – 2022.02 | NLP LAB | Undergraduate Researcher |
+| 2021.07 – 2022.09 | Dept. of AI | Student Council President |
 
-### 🏆 Achievements:
--  **KPC-SW 코딩 고등부 대상**
--  **가톨릭대학교 프로그래밍 대회 동상**
--  **가톨릭대학교 인공지능 및 데이터사이언스 아이디어 경진대회 장려상**
--  **2025 학생 창업유망팀 300+ 성장트랙 선정**
--  **이스트에이드xBlaybus AI MVP 서비스 해커톤 대상**
-
-
-  
-### 👨‍💻 About Me
-
-#### 데이터와 프로세스 흐름을 읽고, 최적의 길을 찾아내는 “ AX Engieer ”
- 
--  Learning: **[AI / K8S / Python ]**
--  Looking to collaborate on: **[Python & AI(NLP&CV)]**
--  Fun fact: **[ NLP / Computer Vision ]**
--  Research : **[한국지능정보시스템학회 - 사진 포즈 추천을 위한 딥러닝 기반 포즈 임베딩 및 군집화 프레임워크]**
-
----
-
-
-#### Activities
-> |기간|대외활동|역할|
-> |:-:|:-:|:-:|
-> |2021.11 ~ 2022.02|NLP LAB|학부연구생|
-> |2021.07 ~ 2022.09|인공지능학과|학생회장|
-> |2023.03 ~ 2023.08|멋쟁이 사자처럼 대학 가톨릭대학교|프론트엔드|
-> |2024.07 ~ 2025.02 |메타이노텍|AX ENGINEER 현장실습생|
-> |2024.03 ~ 2024.12|멋쟁이 사자처럼 대학 가톨릭대학교|인공지능/Django 파트장|
-> |2023.05 ~ 2025.11 |IDAL LAB|학부연구생|
-> |2025.07 ~ 2025.12 |SK AX|SKALA 2기|
-> |2025.12 ~ 2026.6 |안랩|A-FIRST팀 인턴|
-
-
-
-</div>
-
----
-### 🌐 Connect with me:
-<a href="https://velog.io/@hyunji24/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:your.email@example.com)](mailto:hyunji4560@gmail.com)
----
-
+## 📫 Contact
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white)](https://velog.io/@hyunji24/posts)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hyunji4560@gmail.com)
