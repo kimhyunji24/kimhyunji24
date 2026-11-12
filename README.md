@@ -6,9 +6,9 @@ Currently an intern on the A-FIRST team at AhnLab. <!-- TODO: add one line about
 
 ## 🔬 Research
 - **Failure Prediction in Small Qwen Agents: Evaluating the Incremental Value of Hidden-State Probes under Aligned Information Timing and Evaluation Units**
-  Preprint (2026) · Role: solo author · [Paper](TODO) · [Code](TODO)
+  Preprint (2026) · Role: solo author · [Paper(not yet)](TODO) · [Code](https://github.com/kimhyunji24/research)
 - **Deep-learning-based pose embedding and clustering framework for photo pose recommendation**
-  Korea Intelligent Information Systems Society · Role: data engineering · [Paper](TODO) · [Code](https://github.com/kimhyunji24/iPose)
+  Korea Intelligent Information Systems Society · Role: data engineering · [Paper](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11207627&googleIPSandBox=false&mark=0&ipRange=false&accessgl=Y&language=ko_KR&hasTopBanner=true) · [Code](https://github.com/kimhyunji24/iPose)
 
 ## 🚀 Projects
 | Project | What it does | Stack |
