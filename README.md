@@ -5,6 +5,8 @@ I build NLP and Computer Vision based AI services, from research prototypes to p
 Currently an intern on the A-FIRST team at AhnLab. <!-- TODO: add one line about what you work on -->
 
 ## 🔬 Research
+- **Failure Prediction in Small Qwen Agents: Evaluating the Incremental Value of Hidden-State Probes under Aligned Information Timing and Evaluation Units**
+  Preprint (2026) · Role: solo author · [Paper](TODO) · [Code](TODO)
 - **Deep-learning-based pose embedding and clustering framework for photo pose recommendation**
   Korea Intelligent Information Systems Society · Role: data engineering · [Paper](TODO) · [Code](https://github.com/kimhyunji24/iPose)
 
@@ -17,8 +19,9 @@ Currently an intern on the A-FIRST team at AhnLab. <!-- TODO: add one line about
 | [aivideo](https://github.com/kimhyunji24/aivideo) |PM & Full-stack service(AI, RESTful API) | TypeScript |
 
 ## 🏆 Awards
-- 🥇 **Grand Prize**, East AID × Blaybus AI MVP Service Hackathon (2025)
-- Selected for the **2025 Student Startup Promising Team 300+** growth track
+- 🎖️ **Excellence Award**, Catholic University of Korea (Computer Science Infomation Engineering) Academic Research Scholarship (2026)
+- 🥇 **Grand Prize**, East AID × Blaybus AI MVP Service Hackathon (2026)
+- Selected for the 2025 Student Startup Promising Team 300+ growth track
 - Honorable Mention, Catholic University AI & Data Science Idea Contest
 - Bronze Prize, Catholic University Programming Contest
 - 🥇 **Grand Prize**, KPC-SW Coding Competition (High School Division)
