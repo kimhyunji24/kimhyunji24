@@ -14,10 +14,10 @@ Currently an intern on the A-FIRST team at AhnLab. <!-- TODO: add one line about
 | [iPose](https://github.com/kimhyunji24/iPose) | Human pose embedding and clustering with OpenPose and an AutoEncoder. **My role: data engineering** (forked from dnjstlr555/iPose) | Python |
 | [job-seeker-plan/AI](https://github.com/job-seeker-plan/AI) | FastAPI service for spending prediction and guide generation | Python, FastAPI |
 | [Moa-Gwa/BE](https://github.com/Moa-Gwa/BE) | Backend service. TODO: one-line description | Java |
-| [aivideo](https://github.com/kimhyunji24/aivideo) | TODO: one-line description (forked from hyyyeon/aivideo) | TypeScript |
+| [aivideo](https://github.com/kimhyunji24/aivideo) |PM & Full-stack service(AI, RESTful API) | TypeScript |
 
 ## 🏆 Awards
-- 🥇 **Grand Prize**, East AD × Blaybus AI MVP Service Hackathon (2025)
+- 🥇 **Grand Prize**, East AID × Blaybus AI MVP Service Hackathon (2025)
 - Selected for the **2025 Student Startup Promising Team 300+** growth track
 - Honorable Mention, Catholic University AI & Data Science Idea Contest
 - Bronze Prize, Catholic University Programming Contest
